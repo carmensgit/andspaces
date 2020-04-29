@@ -1,0 +1,95 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="120px" height="120px" viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+
+
+<defs>
+	<style>
+		
+		.svgLogoAnimtaed_Dark {
+			stroke-dasharray: 3080;
+			stroke-dashoffset: 0;
+			-webkit-animation: dash 4s linear forwards;
+			-moz-animation: dash 4s linear forwards;
+			-o-animation: dash 4s linear forwards;
+			animation: dash 4s linear forwards;
+			<!-- animation-iteration-count: infinite; -->
+			opacity: 0.5;
+		}
+
+		@-webkit-keyframes dash {
+			0% {
+				stroke-dashoffset: 3080;
+			}
+			90% {
+				stroke-dashoffset: 300;
+				fill: transparent;
+			}
+			100% {
+				fill: #302f3f;
+				opacity: 1;
+			}
+		}
+		@-moz-keyframes dash {
+			0% {
+				stroke-dashoffset: 3080;
+			}
+			90% {
+				stroke-dashoffset: 300;
+				fill: transparent;
+			}
+			100% {
+				fill: #302f3f;
+				opacity: 1;
+			}
+		}
+		@-o-keyframes dash {
+			0% {
+				stroke-dashoffset: 3080;
+			}
+			90% {
+				stroke-dashoffset: 300;
+				fill: transparent;
+			}
+			100% {
+				fill: #302f3f;
+				opacity: 1;
+			}
+		}
+		@-keyframes dash {
+			0% {
+				stroke-dashoffset: 3080;
+			}
+			90% {
+				stroke-dashoffset: 300;
+				fill: transparent;
+			}
+			100% {
+				fill: #302f3f;
+				opacity: 1;
+			}
+		}
+
+	</style>
+</defs>
+
+<style type="text/css">
+<![CDATA[
+	.svgLogoAnimtaed_Dark{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#302f3f;stroke-width:8;stroke-miterlimit:1;}
+]]>
+</style>
+
+<style type="text/css">
+	<!-- .svgLogoAnimtaed_Dark{fill:red;stroke:#000000;stroke-miterlimit:10;} -->
+</style>
+<g>
+	<path class="svgLogoAnimtaed_Dark" d="M147.196,612.038l39.568-0.227l93-215h90c0,0,11.38-24.949,16.675-37.258h-90.141
+		c8.182-18.779,16.082-36.918,23.988-55.054c23.421-53.73,72.479-164.688,72.479-164.688s-13.573-29.982-19.859-44.538
+		c-0.923,1.774-1.648,3.009-2.228,4.308C332.57,184.818,147.196,612.038,147.196,612.038z"/>
+	<path class="svgLogoAnimtaed_Dark" d="M0.811,0.5v396.086c78.928,0,160.553,0.226,239.953,0.226c4-9,10.251-23.69,16-37
+		c-2,0-145.028-0.097-214.002-0.097c-1.709,0-3.419,0-4.994,0V37.449h665.714v189.512h36.923V0.5H0.811z"/>
+	<path class="svgLogoAnimtaed_Dark" d="M441.09,253.015c-0.611-1.356-1.364-2.648-2.4-4.643c-6.136,13.515-19.927,41.44-19.927,41.44l139,322
+		c0,0,33.61,0,44,0C569.107,539.154,455.754,285.588,441.09,253.015z"/>
+	<path class="svgLogoAnimtaed_Dark" d="M734.07,355.654c-77.19-0.008-237.306,1.158-246.306,1.157c5,12.001,10,23.001,16,36.001l199.316-0.094
+		v306.771H37.286V530.333H0.5V736.5h739.904V355.81C738.293,355.756,736.181,355.654,734.07,355.654z"/>
+</g>
+</svg>
